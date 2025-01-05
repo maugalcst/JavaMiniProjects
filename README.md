@@ -48,7 +48,7 @@ A continuación, se listan los proyectos desarrollados, ordenados según su nive
 1. Cada proyecto está contenido en su propia carpeta con un README específico que describe su funcionalidad y ejecución.
 2. Puedes clonar este repositorio ejecutando:
    ```bash
-   git clone https://github.com/maugalcst/java-projects.git
+   git clone https://github.com/maugalcst/JavaMiniProjects.git
    ```
 
 ---
